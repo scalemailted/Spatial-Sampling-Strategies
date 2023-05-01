@@ -71,7 +71,14 @@ By uniformly sampling each angle, every possible orientation on the surface of t
 
 
 ### *Python*
+
+__*point_sphere_v01*__
+Basic Implementation
+
 ![Demo: Python](./assets/py-sphere-sample-v1.gif)
+
+__*point_sphere_v02*__
+Point Density Heatmap
 
 ![Demo: Python](./assets/py-sphere-sample-v2.gif)
 
