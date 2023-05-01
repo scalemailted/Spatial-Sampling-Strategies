@@ -99,8 +99,10 @@ By uniformly sampling each angle, every possible orientation on the surface of t
 - 📁 **coppeliasim/**
     + 📁 **scenes/**
         - *contains CoppeliaSim scenes (.tt)*
+        - 📄 random_sphere_selection.tt
     + 📁 **scripts/**
         - *contains associated Python scripts from the scene*
+        - 📄 coppeliasim_random_sphere_selection.py
 - 📁 **python/**
     + *contains code for standalone Python app*
     + 📄 point_sphere_v01.py
