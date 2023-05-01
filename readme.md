@@ -67,18 +67,22 @@ By uniformly sampling each angle, every possible orientation on the surface of t
 ## Implementation: 
 
 ### *CoppeliaSim* 
+
+**random_sphere_selection.tt**
+> Uniform Random Placements of 200 Uniform Random Rotated Cones on the Surface of a Unit Sphere 
+
 ![Demo: CoppeliaSim](./assets/coppeliasim-sphere-sample.gif)
 
 
 ### *Python*
 
 **point_sphere_v01**
-> Basic Implementation
+> Uniformly Random Selection of 1000 Points on the Surface of a Unit Sphere 
 
 ![Demo: Python](./assets/py-sphere-sample-v1.gif)
 
 **point_sphere_v02**
-> Point Density Heatmap
+> Heatmap of 1000 points on the surface of a unit sphere based on point density
 
 ![Demo: Python](./assets/py-sphere-sample-v2.gif)
 
