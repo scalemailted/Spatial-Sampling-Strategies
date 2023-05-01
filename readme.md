@@ -71,7 +71,9 @@ By uniformly sampling each angle, every possible orientation on the surface of t
 
 
 ### *Python*
-![Demo: Python](./assets/py-sphere-sample.gif)
+![Demo: Python](./assets/py-sphere-sample-v1.gif)
+
+![Demo: Python](./assets/py-sphere-sample-v2.gif)
 
 
 
@@ -83,12 +85,14 @@ By uniformly sampling each angle, every possible orientation on the surface of t
 ## Project Hierarchy 
 - 📁 **assets/**
     + *contains all images in readme documentation*
-- 📁 **coppeliaSim/**
+- 📁 **coppeliasim/**
     + 📁 **scenes/**
         - *contains CoppeliaSim scenes (.tt)*
     + 📁 **scripts/**
         - *contains associated Python scripts from the scene*
 - 📁 **python/**
     + *contains code for standalone Python app*
+    + 📄 point_sphere_v01.py
+    + 📄 point_sphere_v02.py
 - 📁 **javascript/**
     + *contains code for standalone JavaScript app*
