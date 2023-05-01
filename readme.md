@@ -59,29 +59,29 @@ To define an orientation, three independent Euler angles are used to represent t
 
 ---
 
-## Implementation in CoppeliaSim 
+## Implementation: *CoppeliaSim* 
 ![Demo: CoppeliaSim](./assets/coppeliasim-sphere-sample.gif)
 ---
 
-## Implementation in Python
+## Implementation: *Python*
 ![Demo: Python](./assets/py-sphere-sample.gif)
 
 ---
 
-## Implementation in JavaScript
+## Implementation: *JavaScript*
 [![Demo: JavaScript](./assets/js-sphere-sample.gif)](https://scalemailted.github.io/Basic-Motion-Planning/WebApp/)
 
 ---
 
 ## Project Hierarchy 
-- assets
+- assets/
     + contains all images in readme documentation
-- coppeliaSim
-    + scenes
+- coppeliaSim/
+    + scenes/
         - contains coppeliasim scenes (.tt)
-    + python
+    + python/
         - contains associated python scripts from scene
-- python
+- python/
     + contains code for standalone python app
-- javaScript
+- javaScript/
     + contains code for standalone javascript app
