@@ -82,13 +82,13 @@ By uniformly sampling each angle, every possible orientation on the surface of t
 
 ## Project Hierarchy 
 - 📁 **assets/**
-    + contains all images in readme documentation
+    + *contains all images in readme documentation*
 - 📁 **coppeliaSim/**
     + 📁 **scenes/**
-        - contains CoppeliaSim scenes (.tt)
+        - *contains CoppeliaSim scenes (.tt)*
     + 📁 **scripts/**
-        - contains associated Python scripts from the scene
+        - *contains associated Python scripts from the scene*
 - 📁 **python/**
-    + contains code for standalone Python app
+    + *contains code for standalone Python app*
 - 📁 **javascript/**
-    + contains code for standalone JavaScript app
+    + *contains code for standalone JavaScript app*
