@@ -4,6 +4,7 @@
 
 ## Project Objectives
 Generate uniformly random samples (cones) with random orientation on the surface of unit sphere as follows:
+
 ![Sphere Sampling](./assets/sphere-sampling-objective.png)
 
 ---
@@ -63,7 +64,7 @@ To define an orientation, three independent Euler angles are used to represent t
 ---
 
 ## Implementation in Python
-[![Demo: Python]](./assets/py-sphere-sample.gif)
+![Demo: Python](./assets/py-sphere-sample.gif)
 
 ---
 
