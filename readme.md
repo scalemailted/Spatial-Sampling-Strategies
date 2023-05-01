@@ -93,13 +93,13 @@ By uniformly sampling each angle, every possible orientation on the surface of t
 **point_sphere_v01**
 > Uniformly Random Selection of 1000 Points on the Surface of a Unit Sphere 
 
-[![Demo: JavaScript](./assets/js-sphere-sample-v1.gif)](https://scalemailted.github.io/Spatial-Sampling-Strategies/javascript/point_sphere_v01/)
+[![Demo: JavaScript](./assets/py-sphere-sample-v1.gif)](https://scalemailted.github.io/Spatial-Sampling-Strategies/javascript/point_sphere_v01/)
 
 
 **point_sphere_v02**
 > Heatmap of 1000 points on the surface of a unit sphere based on point density
 
-[![Demo: JavaScript](./assets/js-sphere-sample-v2.gif)](https://scalemailted.github.io/Spatial-Sampling-Strategies/javascript/point_sphere_v02/)
+[![Demo: JavaScript](./assets/py-sphere-sample-v2.gif)](https://scalemailted.github.io/Spatial-Sampling-Strategies/javascript/point_sphere_v02/)
 
 ---
 
