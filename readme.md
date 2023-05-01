@@ -83,5 +83,5 @@ To define an orientation, three independent Euler angles are used to represent t
         - contains associated python scripts from scene
 - python/
     + contains code for standalone python app
-- javaScript/
+- javascript/
     + contains code for standalone javascript app
