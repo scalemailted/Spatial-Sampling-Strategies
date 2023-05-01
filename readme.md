@@ -119,3 +119,11 @@ By uniformly sampling each angle, every possible orientation on the surface of t
     + 📄 point_sphere_v02.py
 - 📁 **javascript/**
     + *contains code for standalone JavaScript app*
+    + 📁 point_sphere_v01
+        + 📄 point-sphere.js
+        + 📄 js-colormaps.js
+        + 📄 index.html
+    + 📁 point_sphere_v02
+        + 📄 point-sphere.js
+        + 📄 js-colormaps.js
+        + 📄 index.html
